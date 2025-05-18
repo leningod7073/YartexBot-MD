@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&weight=19000&size=14&pause=1000&width=435&lines=%E2%9C%A8+%C2%A1El+equipo+de+YartexBot+te+desea+una+feliz+navidad!" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typingsvg.demolab.com?font=Lato&weight=19000&size=14&pause=1000&width=435&lines=%E2%9C%A8+%C2%A1El+equipo+de+YartexBot+te+desea+una+feliz+navidad!" alt="Typing SVG"/></a>
 </div>
 
 <p align="center">
@@ -27,7 +27,7 @@
 <a href="https://github.com/GataNina-Li" target="_blank"> <img src="https://i.imgur.com/qUBbRnJ.png" alt="YartexBot-MD" width="150"/> </a> 
  
 - #### Clona YartexBot [`Aquí`](https://github.com/GataNina-Li/YartexBot-MD/fork)
-- #### Agregar/editar Owners [`aqui`](https://github.com/GataNina-Li/YartexBot-MD/blob/main/config.js)
+- #### Agregar/editar Owners [`+51918470837`](https://github.com/GataNina-Li/YartexBot-MD/blob/main/config.js)
 - #### Version de Baileys en el [`package.json`](https://github.com/GataNina-Li/YartexBot-MD/blob/main/package.json)
 </p>
 
